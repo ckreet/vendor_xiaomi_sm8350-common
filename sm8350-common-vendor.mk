@@ -283,6 +283,7 @@ PRODUCT_PACKAGES += \
     libscveObjectTracker_stub \
     libsoc_helper \
     libthermalclient \
+    libtinycompress \
     libvppclient \
     libvpphcp \
     libvpphvx \
